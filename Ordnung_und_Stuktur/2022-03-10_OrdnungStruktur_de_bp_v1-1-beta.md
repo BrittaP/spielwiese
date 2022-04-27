@@ -410,8 +410,8 @@ Im Rahmen eines Studienfaches gibt es verschiedene Praktika, in denen Daten anfa
 
 
 ## Dateien strukturiert benennen
-![Bild](Abbildungen\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg)<!--  width="250px"
- height="200px"
+![Bild](Abbildungen\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg)<!--  width="450px"
+ height="450px"
  align="right"-->
 Wild vergebene Dateinamen können uns um den Verstand bringen! Beispielsweise, wenn wir um 3:00 Uhr nachts verzweifelt nach der wirklich aktuellen Version der Hausarbeit suchen, die wir spätestens morgen früh um 9:00 Uhr abgeben müssen! Schlimmer noch, wenn  uns auffällt, dass wir leider die Version abgegeben haben, in der diese eine wichtige Änderung noch nicht eingearbeitet war. Oder wenn wir versehentlich eine aktuelle Version, die umfangreiche Änderungen enthielt, mit einer älteren Variante überschreiben.  
 
