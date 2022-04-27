@@ -654,16 +654,6 @@ Je nach Betriebssystem können beispielsweise folgende Tools zur gleichzeitigen 
 * rename command 
 
 
-# Glossar
-
-| Begriffe                  | Erläuterungen |
-|:--------------------------|:--------------|
-| Datei                     | xxx           |
-| Verzeichnis               | xxx           |
-| Pfad                      | xxx           |
-| Dateibenennungskonvention | xxx           |
-| Ordner                    | xxx           |
-
 
 # Weiter lernen...
 
