@@ -614,7 +614,7 @@ Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ih
 
 >Bitte nutzen Sie die **rechte Maustaste** und wählen **"Link speichern unter"** um das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format herunterzuladen: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.rtf" download>2022\_AB\_DokuDateibenennung.rtf</A>
 
->Bitte nutzen Sie die **rechte Maustaste** und wählen **"Link speichern unter"** um das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" download>2022\_AB\_DokuDateibenennung.md</A>
+>Bitte nutzen Sie die **rechte Maustaste** und wählen **"Link speichern unter"** um das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format herunterzuladen: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" download>2022\_AB\_DokuDateibenennung.md</A>
 
 ## Umbenennungstools
 Es kann vorkommen, dass Sie mehrere Dateien gleichzeitig umbenennen möchten.
