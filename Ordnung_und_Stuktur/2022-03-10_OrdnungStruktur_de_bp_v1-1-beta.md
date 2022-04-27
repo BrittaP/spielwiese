@@ -83,9 +83,7 @@ Unübersichtliche Ordnerstrukturen und Dateibenennungen können Zeit und Nerven 
 ![Bild](Abbildungen\Comic_Datenverlust_v2_2022-03-08_CM_web.jpg) <!--  width="450px"
  height="450px"
 -->
-Sobald Sie beginnen, Ihre Daten beispielsweise durch eine statistische Analyse zu bearbeiten und damit Ihren Rohdatensatz zu verändern, sollten Sie zusätzlich zu Speicherorten, Ordnerstrukturen und Dateinamen auch die Kenntlichmachung des Bearbeitungsstands (Versionierung -> Verweis zu Modul Versionierung) Ihrer Dateien im Blick haben.
-
-<!-- Sehr langer Satz -->
+Sobald Sie beginnen, Ihre Daten beispielsweise durch eine statistische Analyse zu bearbeiten und damit Ihren Rohdatensatz zu verändern, sollten Sie zusätzlich zu Speicherorten, Ordnerstrukturen und Dateinamen auch die Kenntlichmachung des Bearbeitungsstands (Versionierung) Ihrer Dateien im Blick haben.
 
 Denken Sie auch über eine begleitende Dokumentation nach, in der Sie Ihre eigenen Regeln und Ihr Vorgehen festhalten.
 
