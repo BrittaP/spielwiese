@@ -5,7 +5,7 @@ email:    b.petersen@rz.uni-kiel.de
 
 icon: Abbildungen\Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-version:  0.1.0
+version:  0.1.1
 
 language: de
 
@@ -13,7 +13,7 @@ narrator: Deutsch Female
 
 comment:  Digitale Forschungsdaten ordnen und strukturieren. Ein e-Learning Baustein zum Themenbereich Forschungsdatenmanagement, enstanden im Projekt eLBB4RDM an der CAU Kiel
 
-tags:     Forschungsdaten, Ordnung, Struktur
+tags:     Forschungsdaten, Ordnung, Struktur, dateibenennung, dateibenennungskonvention, forschungsdatenmanagement
 -->
 
 # Digitale Forschungsdaten ordnen und strukturieren
@@ -810,7 +810,15 @@ Je nach Betriebssystem können beispielsweise folgende Tools zur gleichzeitigen 
 >
 >Eine Dokumentation der eigenen Regeln für Ordnerstrukturen und Dateibenennungskonventionen stellt sicher, dass Sie und andere kurz-, mittel- und langfristig Ihre **eigenen Strukturen und Vorgehensweisen nachvollziehen** können. Gemeinhin erfolgt eine Dokumentation von Ordnerstrukturen und Namenskonventionen in einer **README-Datei**, welche gemeinsam mit den Ordnern und Dateien abgelegt wird, für die die Dokumentation gelten soll. Eine dokumentierende **README-Datei** sollte in einem **möglichst einfachen Format** gespeichert werden und neben den **Regeln** zur **Strukturierung von Ordnern** und zur **Benennung von Dateien** auch Informationen zu ggf. genutzten **Abkürzungen und Akronymen** enthalten.
 
+# Feedback
 
+Wir freuen uns sehr über Feedback zu diesem Lernbaustein und möchten Sie daher bitten, den folgenden Evaluationsbogen zum Lernbaustein auszufüllen:
+
+>[Feedback zum Lernbaustein](https://studfeedback.uni-kiel.de/evasys/online.php?p=HL3CT)
+
+Alle Angaben werden anonym erhoben. Die Teilnahme sowie die Beantwortung einzelner Fragen ist selbstverständlich freiwillig.
+
+Herzlichen Dank für Ihre Teilnahme!
 
 # Quellen
 
