@@ -5,7 +5,7 @@ email:    b.petersen@rz.uni-kiel.de
 
 icon: Abbildungen\Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-version:  0.1.1
+version:  2.0
 
 language: de
 
