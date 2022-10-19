@@ -9,7 +9,7 @@ Der Lernbaustein ist Teil einer Lernbaustein-Reihe zum Themenbereich Forschungsd
 
 
 # Ordnerstruktur
-Die *.md Moduldatei (2022-03-10\_OrdnungStruktur\_de\_bp\_v1-1-beta.md) liegt auf oberster Ebene innerhalb des Modulorders (Ordnung\_und\_Struktur).
+Die Lernbaustein-Datei 2022\_OrdnungStruktur\_de\.md liegt auf oberster Ebene innerhalb des Modulorders (Ordnung\_und\_Struktur).
 
 Alle für das Modul genutzen Dateien werden in folgenden **Unterordnern** verwaltet:
 
@@ -17,13 +17,13 @@ Alle für das Modul genutzen Dateien werden in folgenden **Unterordnern** verwal
 
 * **Download-Dateien**: Arbeitsblätter und sonstige Materialien, die Nutzer herunterladen können. Mögliche Formate: .txt, .rtf, .md, .pdf
 
-* **Exporte**: Alle aus 2022-03-10\_OrdnungStruktur\_de\_bp\_v1-1-beta.md exportierten Dateien. Mögliche Formate: SCORM1.2 (.zip), .pdf,.html, .ppt
+* **Exporte**: Alle aus 2022\_OrdnungStruktur\_de\.md exportierten Dateien. Mögliche Formate: SCORM1.2 (.zip), .pdf,.html, .ppt, .apk
 
 # Dateinamen
 
 Für **Moduldateien** gilt die folgende Benennungskonvention:
 
-[Erstellungsjahr]\_[Inhalt]\_[Sprache]\_[Ersteller:in]_[Version].Dateiendung
+[Erstellungsjahr]\_[Inhalt]\_[Sprache]\_.Dateiendung
 
 ---
 
@@ -85,4 +85,4 @@ Bindestriche werden zwischen Jahr, Monat und Tag in Datumsangaben verwendet.
 
 # Versionsangaben
 
-Es wird ein zweistelliges Versionierungsschema nach dem Muster „major.minor“ (z. B. Version 1.3) verwendet.
+Es wird ein zweistelliges Versionierungsschema nach dem Muster „major.minor“ (z. B. Version 1.3) verwendet. Versionsangaben finden sich in den Kommentaren der Datei 2022\_OrdnungStruktur\_de\.md.  
