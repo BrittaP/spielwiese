@@ -35,6 +35,7 @@ Ausgehend von einer durch Digitalität geprägten Welt hat die kulturelle und so
 {{0-1}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Eine mögliche Begriffserläuterung</h3>
 
 Das ist gar nicht so einfach. Ausgehend davon, dass es sowohl den Begriff der Medienkompetenz als auch den modernen Terminus Digital Literacy gibt, geht es bei beiden um einen aufmerksamen und vor allem reflexiven Gebrauch der öffentlich verbreiteten Kommunikationsmittel. Die Begriffe beschreiben das selbstbestimmte Handeln sowie das kritische Auseinandersetzen mit und das angewendete Wissen über Medien.
@@ -48,6 +49,7 @@ Die eine Definition von Digital Literacy ist kaum zu beschreiben. Zwei verschied
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Beispiele für Digital Literacy Konzepte: Das 4k /8c Modell</h3>
 
 <h4>Das 4k Modell:</h4>
@@ -72,6 +74,7 @@ Diese vier Kompetenzen sind die zentralen Grundlagen der Lernenden für selbstge
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Beispiele für Digital Literacy Konzepte: Das 4k /8c Modell</h3>
 
 <h4>Das 8c Modell:</h4>
@@ -105,6 +108,7 @@ Allerdings lassen sich die Begriffe nicht klar voneinander abgrenzen und nur sch
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Fragen die uns in diesem Zusammenhang beschäftigen</h3>
 
 Um sich einer möglichen Einordnung von Digital Literacy zu nähern, könnte man sich die folgenden Fragen stellen:
@@ -118,6 +122,7 @@ Um sich einer möglichen Einordnung von Digital Literacy zu nähern, könnte man
 {{4-5}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Themenfelder dieses Lernbausteins</h3>
 
 Der folgende Lernbaustein soll Dir einen Einblick in die verschiedenen Themenfelder der Digital Literacy bieten und Dir die Möglichkeit geben, digitale Kompetenzen in einem Lernprozess zu erwerben. Dafür stehen Dir die folgenden Lerneinheiten zur Verfügung:
@@ -127,6 +132,7 @@ Der folgende Lernbaustein soll Dir einen Einblick in die verschiedenen Themenfel
 {{5-6}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Themenfelder dieses Lernbausteins</h3>
 
 1. kollaboratives Arbeiten
@@ -191,11 +197,16 @@ Im Rahmen deines (Geschichts-)Studiums wirst du an Gruppenreferaten und -ausarbe
 ## Was ist kollaboratives Arbeiten?
 
 {{0-1}}
+<section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 > Unter __kollaborativem Arbeiten__ versteht man "eine besondere Form der Zusammenarbeit [...], bei der die Beteiligten gemeinsam und gleichzeitig [...] ein Projekt [...] bearbeiten". Dabei ist kollaboratives Arbeiten von dem Begriff Teamarbeit abzugrenzen, "der zwar ein gemeinsames Ziel verfolgt [...], die zur Erreichung notwendigen Aufgaben aber nicht notwendigerweise zusammen, sondern von Einzelnen und parallel bearbeitet werden".[^1](Engelhardt, Claudia/Kusch, Harald: Kollaboratives Arbeiten mit Daten. In: hrsg. v. Putnings, Markus u.a.: Praxishandbuch Forschungsdatenmanagement. Berlin/Boston 2021, S. 451-477, hier S. 451.)
+
+</section>
 
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Kollaboratives Arbeiten analog vs. digital</h3>
 
 Um es direkt klarzustellen: Selbstverständlich kann das gemeinsame Arbeiten zur gleichen Zeit am gleichen Ort Spaß bereiten, vor allem wenn man mit Freund*innen arbeitet. In der Uni ist das aber nicht immer möglich und die unterschiedlichen Stundenpläne erschweren dabei die gemeinsame Arbeit. Spätestens seit der Corona-Pandemie, wegen der kollaboratives Arbeiten ohnehin digital stattfinden musste, sind die Konzepte des digitalen kollaborativen Arbeitens bekannter geworden. <br>
@@ -206,6 +217,7 @@ Hierbei könnt ihr ortsunabhängig oder sogar zeitunabhängig kollaborativ arbei
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Videokonferenzen über Zoom</h3>
 
 Für das digital-kollaborative Arbeiten existieren Tools, mit denen ihr euch per Video zuschalten könnt.<br>
@@ -220,6 +232,7 @@ Die Christian-Albrechts-Universität (CAU) zu Kiel bietet über das Rechenzentru
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Kollaboratives Arbeiten in Dokumenten</h3>
 
 Für Kurzvorträge, gemeinsame Projektarbeiten oder das gemeinsame Lernen in Lerngruppen für Klausuren könnt ihr aber auch andere Wege finden, um digital-kollaborativ zu arbeiten.
@@ -236,6 +249,7 @@ https://medien.bildung.hessen.de/lernplattform/tools.html
 {{0-1}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 In diesem Baustein wird euch das kollaborative Arbeiten über Cryptpad vorgestellt.<br>
 Dieser Anbieter läuft über eine französische Domain und ist in mehreren Sprachen verfügbar. Cryptpad hat zwei nennenswerte Vorteile:
 
@@ -248,6 +262,7 @@ Dieser Anbieter läuft über eine französische Domain und ist in mehreren Sprac
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Let's get it started!</h3>
 
 Wenn du die Website von Cryptpad öffnest (https://cryptpad.fr/),wirst du Folgendes sehen:
@@ -261,6 +276,7 @@ Wenn du die Website von Cryptpad öffnest (https://cryptpad.fr/),wirst du Folgen
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Braucht man für Cryptpad einen Account?</h3>
 
 ...grundsätzlich nicht! Wie du dem folgenden Bild entnehmen kannst...
@@ -275,6 +291,7 @@ Da wir hier von einer Gruppenarbeit im Rahmen eines Geschichtsseminars ausgehen,
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Vorstellung der Option Rich Text</h3>
 
 Gehen wir nun davon aus, dass du mit deiner Gruppe etwas in einem Textdokument festhalten musst. Dazu hast du "Rich Text" ausgewählt (siehe dazu __Folie 8__).<br>
@@ -287,6 +304,7 @@ Folgendes wirst du sehen:
 {{4-5}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Rich Text II</h3>
 
 Nun erhältst du hier nochmal einen genaueren Überblick über deine Optionen im Rich Text:
@@ -308,6 +326,7 @@ rot markiert: Die Option "Teilen" (um die geht es nun auf __Folie 12__)
 {{5-6}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Ein Projekt teilen</h3>
 
 Um nun Jede*n an deinem Projekt teilhaben und mitarbeiten zu lassen, musst du die Option _Teilen_ auswählen (rot markiert auf Folie __11__).
@@ -322,6 +341,7 @@ __Nur dann__ kann der- oder diejenige auch wirklich mitwirken. Cryptpad generier
 {{6-7}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Alles auf einen Blick</h3>
 
 Es bleibt festzuhalten:
@@ -338,9 +358,11 @@ Es bleibt festzuhalten:
 
 </section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 {{7-8}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>...und so sieht es aus!</h3>
 
 !?[alt](/Bilder/Projektseminar.mp4)
@@ -364,154 +386,200 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 
 > Im folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
 
-## Bibliografien & Literaturdatenbanken
-
+## Tipps und Tricks für deine Recherche
 {{0-1}}
-Frustration, Enttäuschung und Wut. Diesen Gefühlen ist wohl das Gros der Studierenden auf der Suche nach Literatur ausgesetzt.
-Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgeliehen worden ist?<br>
-Im folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
+<section>
+
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Gute Vorbereitung ist die halbe Arbeit</h3>
+
+Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zentrale Schlüsselbegriffe genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit. </div>
+
+</section>
 
 {{1-2}}
 <section>
 
-<h3>Gnomon - Eine Bibliografie der Altertumswissenschaften</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Die Recherche</h3>
 
-![Gnomon Suchmaske](/Bilder/Gnomon.png)
+> Wenn du deine zentralen Schlüsselbegriffe gefunden hast, ist es an der Zeit mit deiner Recherche zu beginnen. An dieser Stelle bekommst du ein paar allgemeingültige Tipps, die dir eine Online-Recherche erleichtern können. Jeder Suchdienst kann aber auch Besonderheiten aufweisen. Es ist daher wichtig, dass du im Zweifel die **Hilfsangebote der jeweiligen Datenbanken** beachtest!
+
+Im Folgenden erfährst du:
+
+- Wie du richtig nach Personen, Titeln oder Themen suchst;
+-	Was es bei der Eingabe von Suchbegriffen zu beachten gibt;
+-	Wie du Platzhalter richtig verwendest (Trunkierung);
+-	Wie du Suchbegriffe kombinierst;
+-	Wie du Begriffe aus deiner Suche ausschließen kannst.
 
 </section>
 
 {{2-3}}
 <section>
 
-<h3>Gnomon - Informationen und Zugang</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3> Die richtige Suche nach Personen, Titeln und Themen</h3>
 
-Gnomon (GBD) ist eine bibliografische Datenbank für die gesamten Altertumswissenschaften. Es sind Monografien, Sammelbände, Zeitschriftenaufsätze, Rezensionen und Fachlexika verzeichnet.
-Ein multilingualer Thesaurus ermöglicht eine detaillierte Recherche. Die GBD ist nahzu die einzige Datenbank der historischen Wissenschaften, die YouTube-Inhalte und  weitere Internetressourcen erschließt.
+-	Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
 
-[Link zur Startseite](https://www.gbd.digital/metaopac/start.do?View=gnomon)
+-	Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
+
+-	Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden (Hierbei können die Bezeichnungen je nach Suchdienst abweichen).
 
 </section>
 
 {{3-4}}
 <section>
 
-<h3>Regesta Imperii - Eine Literaturdatenbank der Mediävistik</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Tipps zur Eingabe von Suchbegriffen</h3>
 
-![RI-OPAC](/Bilder/RI.png)
+-	Groß- und Kleinschreibung muss in der Regel nicht beachtet werden
+-	Bei Sonderzeichen, wie beispielsweise Akzenten, kannst du die Grundform des Buchstabens verwenden (e statt é).
+-	Löse Umlaute und das ß auf (ae statt ä, oe statt ö, ue statt ü, ss statt ß).
 
 </section>
 
 {{4-5}}
 <section>
 
-<h3>Regesta Imperii - Informationen und Zugang</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
 
-Regasta Imperii (RI) ist eine frei zugängliche Literaturdatenbank für die mediävistische Forschung im gesamten europäischen Raum. Das unselbstständige Schrifttum (Aufsätze, Zeitschriften, Sammelwerke usw.) ist dabei tiefgreifend erschlossen. Auffindbar sind darüber hinaus Publikationen vom 16. Jahrhundert bis heute, die unterschiedlichste Themen behandeln.
+Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
 
-[Link zum RI-OPAC](http://opac.regesta-imperii.de/lang_de/)
+- Du suchst nach: Bibliothek* --> Du  findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.
+- Du suchst nach: tele*on --> Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
+- Du suchst nach: do?umentation --> Du findest Treffer mit den Worten: documentation und Dokumentation
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du  Platzhalter in aller Regel **nicht** verwenden. </div>
 
 </section>
 
 {{5-6}}
 <section>
 
-<h3>Die Deutsche Historische Bibliografie</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Suchbegriffe kombinieren</h3>
 
-![DHB](/Bilder/DHB.png)
+> Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
+
+<h4>Alle Begriffe finden (UND)</h4>
+
+Verwende das Wort AND (in Großbuchstaben), das Pluszeichen oder einfach das Leerzeichen, um Treffer zu erhalten, in denen alle Suchbegriffe vorkommen.
+
+- digital AND literacy
+- digital +literacy
+- digital literacy
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt. </div>
+
+
+<p></p><h4>Einen oder mehrere Begriffe finden (ODER)</h4>
+
+Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entweder mit dem einen oder dem anderen (oder beiden Suchbegriffen) zu erhalten.
+
+- star OR stern
+- (star stern)
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** Eine **ODER-Verknüpfung** erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.</div>
 
 </section>
 
 {{6-7}}
 <section>
 
-<h3> Die Deutsche Historische Bibliografie - Informationen und Zugang</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Begriffe aus der Suche ausschließen</h3>
 
-Die Deutsche Historische Bibliografie (DHB) ist eine bibliografische Datenbank für die Geschichte der neueren- und neusten Geschichte. Das Projekt befindet sich gegenwärtig noch im Aufbau, bietet aber dennoch eine gute Option der Literaturrecherche.
+Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu erhalten, die zwar den ersten Suchbegriff beinhalten, jedoch nicht den zweiten.
 
-[Link zur DHB](https://www.historicum.net/metaopac/start.do?View=dhb)
+- digital NOT literacy
+- digital -literacy
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not". </div>
 
 </section>
 
-## Kataloge: Der GVK und CO
+{{7-8}}
+<section>
+
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>weiterführender Link</h3>
+
+Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
+
+> * [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
+> * [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
+> * [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
+
+</section>
+
+## Bibliografien & Literaturdatenbanken
+
 {{0-1}}
-![Link zum GVK](/Bilder/GVK.png)
+<section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+> Ein weiterer wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswahl einer geeigneten Datenbank. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst.
+
+</section>
 
 {{1-2}}
 <section>
 
-<h3>Kataloge: Der GVK und CO - Informationen und Zugang</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3> Der Katalog der Universitätsbibliothek zu Kiel</h3>
 
-Der Gemeinsame Verbundkatalog (GVK) enthält eine Vielzahl an Informationen über Monografien, Sammelbände, Aufsätze, Zeitschriften und weitere Datenträger.Zudem bietet der GVK die Möglichkeit der Fernleihe. Ein Fernleihkonto kann am Leihschalter der Universitätsbibliothek ertellt werden.
+![UB-Katalog](/Bilder/OPAC.png)
 
-[GVK](https://kxp.k10plus.de/DB=2.1/DB=2.1/)
+Der Katalog der Universitätsbibliothek (UB-Katalog) gibt Auskunft über die bibliografische Angaben, den Standort und die Entleihbarkeit von Literaturtiteln, die in der UB enthalten sind.
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  **Achtung:** Eine Literatursuche **nur** über den UB-Katalog ist nicht zum empfehlen, da dies den Suchbereich nur auf die Universitätsbibliothek begrenzen würde. Speziell zum Auffinden von Aufsätzen oder Zeitschriften empiehlt es sich, weitere Datenbanken und Tools zu nutzen. </div>
+
+<p></p>[Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)
 
 </section>
 
 {{2-3}}
 <section>
 
-<h3>Der Katalog der Universitätsbibliothek zu Kiel</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Datenbanken-Infosystem (DBIS) der Universitätsbibliothek Kiel</h3>
 
-![UB-Katalog](/Bilder/OPAC.png)
+> Um eine passende Datenbank für dein Thema zu finden, kann dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel weiterhelfen. Dort ist eine Vielzahl verschiedener Datenbanken - nach Fachbereichen sortiert - aufgelistet.
+
+![alt](/Bilder/DBIS.bmp)
+
+<p></p>[Link zum Datenbank-Insosystem (BDIS)](https://dbis.ur.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
 </section>
 
 {{3-4}}
 <section>
 
-<h3>Der Katalog der Universitätsbibliothek zu Kiel - Informationen und Zugang</h3>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Auch mal nach Hilfe fragen</h3>
 
-Der Katalog der Universitätsbibliothek (UB-Katalog) gibt Auskunft über die bibliografische Angaben, den Standort und die Entleihbarkeit von Literaturtiteln, die in der UB enthalten sind.
-
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  **Achtung:** Eine Literatursuche nur über den UB-Katalog ist nicht zum empfehlen, da dies den Suchbereich nur auf die Universitätsbibliothek begrenzen würde. Speziell zum Auffinden von Aufsätzen oder Zeitschriften empiehlt es sich, weitere Datenbanken und Tools zu nutzen. </div>
-
-[Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)
+> Auch bei der Online-Recherche gilt: **es ist noch kein Meister vom Himmel gefallen**. Und Datenbank ist nicht gleich Datenbank.<br> Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt, ist es natürlich, dass man sich gerade am Anfang überfordert fühlt. Ihr könnt auch eure Dozenten, bei denen ihr die Hausarbeit schreibt, nach geeigneten Datenbanken für die Recherche für euer Thema fragen.
 
 </section>
 
-{{4-5}}
-<section>
+## Alles verstanden? - Teste dich jetzt!
 
-<h3>Der Karlsruher Virtuelle Katalog (KVK)</h3>
-![KVK](/Bilder/KVK.png)
+<h3>Richtig oder falsch?</h3>
 
-</section>
-
-{{5-6}}
-<section>
-
-<h3>Informationen und Zugang</h3>
-
-Der Karlsruher Virtuelle Katalog (KVK) ist eine umfassende Suchmaschine, die weltweit Medien nachweisen kann. Bei entsprechender Eingrenzung kann entweder national oder international gesucht werden.
-
->Die Funktion 'Digitale Medien' ermöglicht eine gezielte Suche in digitalen Verzeichnissen, Datenbanken, Katalogen usw., um auf potenzielles Quellenmaterial zugreifen zu können.
-
-[Link zum KVK](https://primo.bibliothek.kit.edu/primo-explore/search?tab=kit&sortby=date&vid=KIT)
-
-</section>
-## Weitere Datenbanken
-**Hollis Harvard**
-
-Hollis ist der Katalog der Harvard Universität. Dieser bietet eine umfangreiche Suchfunktion und zahlreiche Filter. Die Suche muss hierbei in englischer Sprache erfolgen.
-
-[Link zu Hollis](https://hollis.harvard.edu/primo-explore/search?vid=HVD2&sortby=rank&lang=en_US)
-
-**JSTOR**
-
-Hierbei handelt es sich um eine Online-Bibliothek, die vor allem englischsprachige Literatur umfasst. In der Hauptsache können hier Aufsätze aus Zeitschriften oder Sammelbänden gefunden werden.
-
-[Link zu JSTOR](https://www.jstor.org/)
-
-## Weitere Tools
-**Hsozkult**
-
-In diesem Fachportal können Rezensionen und Diskussionen von Literaturtiteln eingesehen werden. Auf diese Weise lässt sich eine erster Eindruck gewinnen, ob ein Werk nützlich für das eigene Thema ist und wie die Fachwelt dieses bewertet.
-
-[Link zu Hsozkult](https://www.hsozkult.de/)
-
-**Google Scholar**
-
-Bei Eingabe von 'Scholar' in die Suchleiste von Google wird eine neue Suchmaschine geöffnet, die dann vor allem nach Veröffentlichungen zum eingegebenen Thema sucht.
+[[_richtig_] [_falsch_]]
+[[ ] [X]] Bei einer Such nach einem Verfasser sollte unbedingt der vollständige Name eingegeben werden. Sonst kommt es zu Verwechslungen.
+[[ ] [X]] Sonderzeichen und Diphtonge müssen unbedingt richtig geschrieben werden, damit auch der richtige Begriff gefunden werden kann.
+[[X] [ ]] Bei der Suche nach einem **Thema** sollte als Suchfeld entweder "Freitext", "Schlagwort" oder "Basic Index" verwendet werden
+[[X] [ ]] Bei einer ODER-Verknüpfung wird der Suchbereich stark erweitert. Es kommt daher zu sehr vielen Treffern.
+[[X] [ ]] Wenn eine Suchmaschine die Funktion NOT nicht kennt, sucht diese nach dem deutschen Wort "Not".
+[[ ] [X]] Es ist nicht möglich gleichzeitig nach verschiedenen Schreibweisen eines Begriffs zu suchen. Sowas muss manuell und einzeln nacheinander eingegeben werden.
+[[ ] [X]] Jede Suchmaschine funktioniert gleich.
+[[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichen.  
 
 
 # Leitfaden zum Erstellen einer Dokumentvorlage in Word
@@ -535,11 +603,17 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 ## Schritt 2: Umsetzung der Formalia
 
 {{0-1}}
+<section>
+
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  Deine eigentliche Hausarbeit wird im dritten Abschnitt umgesetzt. Beachte dafür die von deinem __Institut vorgegebenen Formalia__. </div>
+
+</section>
 
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Seitenränder</h3>
 ![alt](/Bilder/Seitenränder.bmp)
 
@@ -555,6 +629,7 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Schriftstil</h3>
 ![alt](/Bilder/Schrift.bmp)
 
@@ -569,6 +644,7 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{0-1}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 > Das Erstellen eines automatischen Inhaltsverzeichnisses erfolgt in drei Schritten.
 
 * Erstellen einer Grobgliederung
@@ -580,6 +656,7 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Erstellen einer Grobgliederung in Listenform</h3>
 
 > Um ein Automatisches Inhaltsverzeichnis erstellen zu können, muss dein Dokument erst einen Inhalt bekommen. Für die Dokumentvorlage reicht es, wenn du im dritten Abschnitt eine grobe Gliederung (Einleitung, Kapitel 1, Kapitel 2 (ggf. Unterkapitel), Schluss) in Form einer __Liste__ erstellst.
@@ -591,11 +668,12 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Zuordnung der Ebenen</h3>
 
 Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebene zuordnen:
 
-![alt](/Bilder/Ebene-1.bmp)
+![alt](/Bilder/Ebene-1.bmp) <!-- style = "width: 80%; height: auto; " -->
 
 * Markiere die erste Überschrift.
 * Wähle dafür den Reiter "Referenzen" -> "Text hinzufügen" -> "Ebene 1".
@@ -609,6 +687,7 @@ Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebe
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Einfügen des Inhaltsverzeichnisses</h3>
 
 > Begib dich in den zweiten Abschnitt deines Dokuments. Das Inhaltverzeichnis ist an dieser Stelle einzufügen.
@@ -628,7 +707,8 @@ Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebe
 {{0-1}}
 <section>
 
-Jetzt müssen die Seitenzahlen formatiert werden.
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h5>Jetzt müssen die Seitenzahlen formatiert werden</h5>
 
 Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstellten Abschnittsumbrüche wichtig.
 
@@ -639,6 +719,7 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Nummerierung von Deckblatt und Inhaltsverzeichnis</h3>
 
 ![alt](/Bilder/Seitenzahlen-Römisch-1.bmp)
@@ -662,6 +743,7 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Verknüpfungen zwischen Abschnitten lösen</h3>
 > Damit du deine Arbeit ab der dritten Seite problemlos anders nummerieren kannst als am Anfang, müssen die zuvor eingefügten Abschnitte voneinander getrennt werden.
 
@@ -677,6 +759,7 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Nummerierung ab der dritten Seite Einfügen</h3>
 
 ![alt](/Bilder/Seitenzahlen-Arabisch.bmp)
@@ -695,6 +778,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{4-5}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Entfernen der Seitenzahl im letzten Abschnitt</h3>
 > Im letzten Abschnitt befindet sich die Eigenständigkeitserklärung der Arbeit. Diese wird nicht im Inhaltsverzeichnis aufgeführt und nicht mit einer Seitenzahl versehen. Für den letzten Abschnitt muss die Seitenzahl deshalb wieder entfernt werden.
 
@@ -719,11 +803,16 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 ## Schritt 6: Speichern der Datei als Dokumentvorlage
 
 {{0-1}}
+<section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 > Zum Schluss solltest du deine neue Dokumentvorlage als solche in Word speichern (.dotx-Datei). So kannst du die Vorlage für jede Hausarbeit verwenden und stellst sicher, dass du sie nicht versehenlich überschreibst. Dies könnte passieren, wenn du die Formatvorlage als als Word-Datei (.docx-Datei) auf deinem Rechner speicherst.
+
+</section>
 
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Als Dokumentvorlage Speichern</h3>
 
 ![alt](/Bilder/Vorlage-speichern.bmp)
@@ -740,6 +829,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Dokumentvorlagen öffnen</h3>
 
 > Du kannst deine Dokumentvorlage jederzeit über Word öffnen.
@@ -757,6 +847,8 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{1-2}}
 <section>
+
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 1. Wie fügst du in deinem Dokument einen Abschnittsumbruch ein?
 
 - [( )] "Einfügen" -> "Seitenumbruch".
@@ -775,6 +867,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{2-3}}
 <section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 3. Wie wird das automatische Inhaltsverzeichnis hinzugefügt?
 
 - [(X)] "Referenzen" -> "Inhaltsverzeichnis" -> "Automatisches Verzeichnis 1".
@@ -793,6 +886,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{3-4}}
 <section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 5. Welche Behauptungen treffen zu?
 
 [[_ja_] [_nein_]]
@@ -810,11 +904,16 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 ## Nützliche Shortcuts
 {{0-1}}
+<section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 > Shortcuts erleichtern das Schreiben der Hausarbeit. Den folgenden Listen sind die nützlichsten Shortcuts für das Schreiben von Hausarbeiten für Windows und für MacOS zu entnehmen.
+
+</section>
 
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Shortcuts bei Windows</h3>
 
 | Aktion   | Shortcut    |
@@ -838,6 +937,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Shortcuts bei MacOS</h3>
 
 | Aktion   | Shortcut |
@@ -862,7 +962,8 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{0-1}}
 <section>
 
-**Was ist eigentlich LibreOffice?**
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Was ist eigentlich LibreOffice?</h3>
 
 LibreOffice ist ein kostenfreies Open-Source Textbearbeitungs-Programm.
 
@@ -874,6 +975,7 @@ LibreOffice ist ein kostenfreies Open-Source Textbearbeitungs-Programm.
 {{1-2}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Warum ist LibreOffice eine gute Alternative?</h3>
 
 Es läuft ohne Probleme auf allen Betriebssystemen (Windows, Linux, Apple, Smartphones und Tablets)
@@ -887,6 +989,7 @@ LibreOffice kann Word Dokumente öffnen und auch im Word-Format abspeichern.
 {{2-3}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Warum sollte ich Word dann noch benutzen?</h3>
 
 Es gibt ein paar Vorteile, die Microsoft Office mit sich bringt.
@@ -906,8 +1009,9 @@ Es gibt ein paar Vorteile, die Microsoft Office mit sich bringt.
 {{3-4}}
 <section>
 
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Wie war das noch Mal?</h3>
-**Was ist LibreOffice?**
+<h4>Was ist LibreOffice?</h4>
 
 - [[ ]] Ein kommerzielles Office-Programm
 - [[X]] Ein Open-Source Project
@@ -971,6 +1075,7 @@ Und falls du doch nicht zufrieden bist, kannst du dir ja immer noch Word kaufen.
 
 {{4-5}}
 <section>
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  
 Es ist egal welches Programm das Beste ist. Wichtig ist nur, dass du damit zufrieden bist. **Viel Erfolg bei deinem Studium!** </div>
 
@@ -978,7 +1083,9 @@ Es ist egal welches Programm das Beste ist. Wichtig ist nur, dass du damit zufri
 
 {{5-6}}
 <section>
-## Literatur
+
+<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+<h3>Literatur</h3>
 > * [Computer Spezialisten](https://computer-spezialisten.de/blog/microsoft-libre-open-office-co/)
 > * [Vorteile von LibreOffice](https://jochen-plikat.com/2017/01/25/vorteile-von-libreoffice/)
 > * [Vodafone Business](https://www.vodafone.de/business/featured/digitales-business/digitaler-arbeitsplatz/libreoffice-versus-openoffice-das-koennen-die-microsoft-office-alternativen/)
