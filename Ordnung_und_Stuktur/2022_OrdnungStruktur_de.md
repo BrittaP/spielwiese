@@ -734,7 +734,7 @@ Mit Hilfe einer geeigneten Dokumentation können Sie für sich selbst und für a
 
 Eine Dokumentation von Ordnerstrukturen und Namenskonventionen erfolgt gemeinhin in einer sogenannten **README-Datei**.
 
-**README-Dateien** sollten stets zusammen mit den Dateien abgelegt werden, für die die jeweilige Dokumentation gelten soll. Ein guter Speicherort ist die jeweils oberste Ordnerebene (vgl. [Beispiele für mögliche Ordnerstrukturen](#25)).
+**README-Dateien** sollten stets zusammen mit den Dateien abgelegt werden, für die die jeweilige Dokumentation gelten soll. Ein guter Speicherort ist die jeweils oberste Ordnerebene (vgl. [Beispiele für mögliche Ordnerstrukturen](#Beispiele-für-mögliche-Ordnerstrukturen).
 
 **README-Dateien** sollten stets in einem Format angelegt werden, das einfach und schnell lesbar ist. Eine reine Textdatei ist für eine Dokumentation vollkommen ausreichend. Empfehlenswerte Formate für Ihre README-Dateien sind beispielsweise reine Textdateien (.txt), Markdown-Dateien (.md) oder Rich-Text-Dateien (.rtf). Diese Formate sind interoperabel und benötigen kein spezielles Programm, sondern können von jedem beliebigen Texteditor geöffnet werden.
 
