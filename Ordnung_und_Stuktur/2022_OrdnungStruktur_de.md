@@ -77,7 +77,7 @@ Jeweils am Ende der Kapitel kann das Gelernte mit kurzen Selbsttests überprüft
 
 Für die Bearbeitung der im Lernbausteins gestellten Aufgaben benötigen Sie keine spezielle Software.
 
-Das im Kapitel [Dokumentation von Bennungskonventionen](#Arbeitsblatt:-Dokumentation-von-Benennungskonventionen) hinterlegten Arbeitsblatt liegt in verschiedenen Formaten vor, so dass es in einem Textverarbeitungsprogramm/Texteditor Ihrer Wahl bearbeitet werden kann.
+Das im Kapitel [Dokumentation](#Dokumentation) hinterlegten Arbeitsblatt liegt in verschiedenen Formaten vor, so dass es in einem Textverarbeitungsprogramm/Texteditor Ihrer Wahl bearbeitet werden kann.
 
 ---
 
