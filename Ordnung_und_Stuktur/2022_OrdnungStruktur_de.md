@@ -5,7 +5,7 @@ email:    b.petersen@rz.uni-kiel.de
 
 icon: Abbildungen\Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-version:  2.0
+version:  0.2.0
 
 language: de
 
@@ -20,24 +20,29 @@ tags:     Forschungsdaten, Ordnung, Struktur, dateibenennung, dateibenennungskon
 
 Herzlich willkommen im Lernbaustein "**Digitale Forschungsdaten ordnen und strukturieren**"!
 
- ![Bild](Abbildungen\TiBi_FDM_GanzerZyklus_Lila_2022-01-27_web.jpg)<!--  width="250px"
+ ![Bild](Abbildungen\2022-09-27_FDM-Zyklus_Erhebung_OhneZentrum_CM.jpg)<!--  width="250px"
   height="250px"
   align="right"-->
 
 Dieser Lernbaustein ist Teil einer Lernbaustein-Reihe zum Themenbereich Forschungsdatenmanagement, welche im Rahmen des durch das CAU-Programm für die digitale Lehre 2021-2023 geförderten Projektes **E-Learning Building Blocks for RDM (eLBB4RDM)** entstand.
 
-An der Erstellung dieses Lernbausteins beteiligt war ein interdisziplinär zusammengesetztes Team aus Lehrenden, Infrastrukturmitarbeitenden und Studierenden der Christian-Albrechts-Universität zu Kiel. Die verwendeten Illustrationen wurden, wo nicht anders angegeben, von Cleo Michelsen erstellt.
+An der Erstellung dieses Lernbausteins war ein interdisziplinär zusammengesetztes Team aus Lehrenden, Infrastrukturmitarbeitenden und Studierenden der Christian-Albrechts-Universität zu Kiel beteiligt.
+
+Das Autor/*innen-Team bestand aus Britta Petersen (Zentrales Forschungsdatenmanagement/Rechenzentrum), Thilo Paul-Stüve (Zentrales Forschungsdatenmanagement/Rechenzentrum), Prof. Martina Gerken (Institut für Elektrotechnik), Michael Meisser (Institut für Elektrotechnik), Dr. Georg Hörmann (Institut für Natur- und Ressourcenschutz), Gregor Große-Bölting (Institut für Informatik), Prof. Dr. Oliver Nakoinz (Institut für Ur- und Frühgeschichte), Cleo Michelsen (Studentische Hilfskraft), Semih Acis (Studentische Hilfskraft) und Olaf Matthaei (Studentische Hilfskraft).
+
+Ein besonderer Dank gilt Dr. Swantje Piotrowski (Historisches Seminar) und Prof. Dr. Martina Gerken für den initialen Einsatz des Lernbausteins in ihren Lehrveranstaltungen und das entsprechende Feedback zu diesem Lernbaustein.   
+
+Die verwendeten Illustrationen wurden, wo nicht anders angegeben, von Cleo Michelsen erstellt.
 
 Der Lernbaustein  wurde für den Einsatz in der Lehre entwickelt. Er eignet sich ebenfalls für das reine Selbststudium.
 
 ---
 
-**Lizenzhinweis**
-
-![Bild](Abbildungen\CC_Lizenz.png)<!--  width="50px"
+>**Lizenzhinweis**
+>
+>![Bild](Abbildungen\CC_Lizenz.png)<!--  width="50px"
 -->
-Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
-
+>Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
 
 ## Zielgruppe dieses Lernmoduls
 
@@ -72,7 +77,7 @@ Jeweils am Ende der Kapitel kann das Gelernte mit kurzen Selbsttests überprüft
 
 Für die Bearbeitung der im Lernbausteins gestellten Aufgaben benötigen Sie keine spezielle Software.
 
-Das im Kapitel [Dokumentation von Bennungskonventionen](#Arbeitsblatt:-Dokumentation-von-dateiBenennungskonventionen) hinterlegten Arbeitsblatt liegt in verschiedenen Formaten vor, so dass es in einem Textverarbeitungsprogramm/Texteditor Ihrer Wahl bearbeitet werden kann.
+Das im Kapitel [Dokumentation von Bennungskonventionen](#Arbeitsblatt:-Dokumentation-von-Benennungskonventionen) hinterlegten Arbeitsblatt liegt in verschiedenen Formaten vor, so dass es in einem Textverarbeitungsprogramm/Texteditor Ihrer Wahl bearbeitet werden kann.
 
 ---
 
@@ -300,7 +305,7 @@ Sie haben sich eben überlegt, nach welchen Merkmalen Sie Ihre Dateien gruppiere
 
 Entwerfen Sie eine hierarchisch organisierte Ordnerstruktur. Beginnen Sie mit einer begrenzten Anzahl von Ordnern für die übergeordneten Themen und legen Sie dann innerhalb dieser Ordner weitere spezifischere Ordner an.
 
-Folgendes Beispiel stellt eine hierachische Strukturierung dar:
+Folgendes Beispiel stellt eine hierarchische Strukturierung dar:
 
 1. Projekt
 2. Arbeitsgruppe
@@ -400,7 +405,7 @@ Es ist ggf. sinnvoll, das Konzept anhand einiger Beispielfälle auszuprobieren. 
 
 Überprüfen Sie regelmäßig, ob Ihre Ablagestruktur noch zu Ihren Anforderungen passt. Ein Hinweis auf Änderungsbedarf könnte die Anzahl der Dateien sein, die Sie nicht eindeutig zuordnen können und die aus diesem Grunde in einer Zwischenablage landen.
 
-Halten Sie eventuelle Änderungen Ihrer Strukturen in einer [Dokumentation](#dokumentation-von-benennungskonventionen) fest.
+Halten Sie eventuelle Änderungen Ihrer Strukturen in einer [Dokumentation](#dokumentation) fest.
 
 ********************************************************************************
 
@@ -680,15 +685,10 @@ Eine Datumsangabe im Format YY-MM-DD oder DD-MM-YY sollten Sie unbedingt vermeid
 
 ## Beispiele für Benennungskonventionen und Dateinamen
 
-| Beispiele für Benennungskonventionen        | Beispiel-Dateiname |
-|:--------------------------  |:--------------      |
-| [Inhaltsbeschreibung]\_[ErstelldatumISO8601]\_[Experiment]\_[Bearbeiter\*in]\_[Version].Dateiendung  | Protokoll\_2020-01-05\_O2-Messung\_YA\_v1.odt           |
-| [LfdNummer]\_[Erhebungsort]\_[Parameter]\_[Bearbeiter\*in]_[ErhebungsdatumISO8601].Dateiendung    | 07\_Barkau\_N2\_Nina_20040503.csv           |
-| [Erhebungsjahr]\_[Inhalt-Ort]\_[Bearbeitungsstand]\_[Bearbeiter\*in].Dateiendung | 2019\_KartierungSchaber-Ploen\_original_TF.tif          |
-|   [YYYYMMDD]\_[Projekt]\_[Ort]\_[Event].Dateiendung    | 20130622\_Pirovac\_Orvieto\_KickOffMeeting.Dateiendung  |
-| [Institutskennung]\_[Sammlungskennung]\_[Merkmal]\_[Inventarnummer]\_[Aufnahmekennung]\_[Typenkennung].Dateiendung | sgs\_mup\_creed\_a-123-dmg-12-54\_uv1\_m.tif |
+Folgende Beispiele sollen Ihnen als Orientierungshilfe für die Erstellung eigener Benennungskonventionen und entsprechender Dateinamen dienen:
 
 
+![](Abbildungen\Abb_Beispiele-Benennungskonvention_2022_bp.png "Beispiele für Bennungskoventionen und Dateinamen. (Abbildung: Britta Petersen")
 
 
 ### Selbsttest - Dateibenennungen
@@ -734,7 +734,7 @@ Mit Hilfe einer geeigneten Dokumentation können Sie für sich selbst und für a
 
 Eine Dokumentation von Ordnerstrukturen und Namenskonventionen erfolgt gemeinhin in einer sogenannten **README-Datei**.
 
-**README-Dateien** sollten stets zusammen mit den Dateien abgelegt werden, für die die jeweilige Dokumentation gelten soll. Ein guter Speicherort ist die jeweils oberste Ordnerebene (vgl. [Beispiele für mögliche Ordnerstrukturen](#Beispiele-für-mögliche-Ordnerstrukturen).
+**README-Dateien** sollten stets zusammen mit den Dateien abgelegt werden, für die die jeweilige Dokumentation gelten soll. Ein guter Speicherort ist die jeweils oberste Ordnerebene (vgl. [Beispiele für mögliche Ordnerstrukturen](#Beispiele-für-mögliche-Ordnerstrukturen)).
 
 **README-Dateien** sollten stets in einem Format angelegt werden, das einfach und schnell lesbar ist. Eine reine Textdatei ist für eine Dokumentation vollkommen ausreichend. Empfehlenswerte Formate für Ihre README-Dateien sind beispielsweise reine Textdateien (.txt), Markdown-Dateien (.md) oder Rich-Text-Dateien (.rtf). Diese Formate sind interoperabel und benötigen kein spezielles Programm, sondern können von jedem beliebigen Texteditor geöffnet werden.
 
