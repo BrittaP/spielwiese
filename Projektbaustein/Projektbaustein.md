@@ -35,7 +35,6 @@ Ausgehend von einer durch Digitalität geprägten Welt hat die kulturelle und so
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Eine mögliche Begriffserläuterung</h3>
 
 Das ist gar nicht so einfach. Ausgehend davon, dass es sowohl den Begriff der Medienkompetenz als auch den modernen Terminus Digital Literacy gibt, geht es bei beiden um einen aufmerksamen und vor allem reflexiven Gebrauch der öffentlich verbreiteten Kommunikationsmittel. Die Begriffe beschreiben das selbstbestimmte Handeln sowie das kritische Auseinandersetzen mit und das angewendete Wissen über Medien.
@@ -49,7 +48,6 @@ Die eine Definition von Digital Literacy ist kaum zu beschreiben. Zwei verschied
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Beispiele für Digital Literacy Konzepte: Das 4k /8c Modell</h3>
 
 <h4>Das 4k Modell:</h4>
@@ -74,7 +72,6 @@ Diese vier Kompetenzen sind die zentralen Grundlagen der Lernenden für selbstge
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Beispiele für Digital Literacy Konzepte: Das 4k /8c Modell</h3>
 
 <h4>Das 8c Modell:</h4>
@@ -108,7 +105,6 @@ Allerdings lassen sich die Begriffe nicht klar voneinander abgrenzen und nur sch
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Fragen die uns in diesem Zusammenhang beschäftigen</h3>
 
 Um sich einer möglichen Einordnung von Digital Literacy zu nähern, könnte man sich die folgenden Fragen stellen:
@@ -122,7 +118,6 @@ Um sich einer möglichen Einordnung von Digital Literacy zu nähern, könnte man
 {{4-5}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Themenfelder dieses Lernbausteins</h3>
 
 Der folgende Lernbaustein soll Dir einen Einblick in die verschiedenen Themenfelder der Digital Literacy bieten und Dir die Möglichkeit geben, digitale Kompetenzen in einem Lernprozess zu erwerben. Dafür stehen Dir die folgenden Lerneinheiten zur Verfügung:
@@ -132,7 +127,6 @@ Der folgende Lernbaustein soll Dir einen Einblick in die verschiedenen Themenfel
 {{5-6}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Themenfelder dieses Lernbausteins</h3>
 
 1. kollaboratives Arbeiten
@@ -198,7 +192,7 @@ Im Rahmen deines (Geschichts-)Studiums wirst du an Gruppenreferaten und -ausarbe
 
 {{0-1}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 > Unter __kollaborativem Arbeiten__ versteht man "eine besondere Form der Zusammenarbeit [...], bei der die Beteiligten gemeinsam und gleichzeitig [...] ein Projekt [...] bearbeiten". Dabei ist kollaboratives Arbeiten von dem Begriff Teamarbeit abzugrenzen, "der zwar ein gemeinsames Ziel verfolgt [...], die zur Erreichung notwendigen Aufgaben aber nicht notwendigerweise zusammen, sondern von Einzelnen und parallel bearbeitet werden".[^1](Engelhardt, Claudia/Kusch, Harald: Kollaboratives Arbeiten mit Daten. In: hrsg. v. Putnings, Markus u.a.: Praxishandbuch Forschungsdatenmanagement. Berlin/Boston 2021, S. 451-477, hier S. 451.)
 
 </section>
@@ -206,7 +200,6 @@ Im Rahmen deines (Geschichts-)Studiums wirst du an Gruppenreferaten und -ausarbe
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Kollaboratives Arbeiten analog vs. digital</h3>
 
 Um es direkt klarzustellen: Selbstverständlich kann das gemeinsame Arbeiten zur gleichen Zeit am gleichen Ort Spaß bereiten, vor allem wenn man mit Freund*innen arbeitet. In der Uni ist das aber nicht immer möglich und die unterschiedlichen Stundenpläne erschweren dabei die gemeinsame Arbeit. Spätestens seit der Corona-Pandemie, wegen der kollaboratives Arbeiten ohnehin digital stattfinden musste, sind die Konzepte des digitalen kollaborativen Arbeitens bekannter geworden. <br>
@@ -217,7 +210,6 @@ Hierbei könnt ihr ortsunabhängig oder sogar zeitunabhängig kollaborativ arbei
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Videokonferenzen über Zoom</h3>
 
 Für das digital-kollaborative Arbeiten existieren Tools, mit denen ihr euch per Video zuschalten könnt.<br>
@@ -232,7 +224,6 @@ Die Christian-Albrechts-Universität (CAU) zu Kiel bietet über das Rechenzentru
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Kollaboratives Arbeiten in Dokumenten</h3>
 
 Für Kurzvorträge, gemeinsame Projektarbeiten oder das gemeinsame Lernen in Lerngruppen für Klausuren könnt ihr aber auch andere Wege finden, um digital-kollaborativ zu arbeiten.
@@ -249,7 +240,6 @@ https://medien.bildung.hessen.de/lernplattform/tools.html
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 In diesem Baustein wird euch das kollaborative Arbeiten über Cryptpad vorgestellt.<br>
 Dieser Anbieter läuft über eine französische Domain und ist in mehreren Sprachen verfügbar. Cryptpad hat zwei nennenswerte Vorteile:
 
@@ -262,7 +252,6 @@ Dieser Anbieter läuft über eine französische Domain und ist in mehreren Sprac
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Let's get it started!</h3>
 
 Wenn du die Website von Cryptpad öffnest (https://cryptpad.fr/),wirst du Folgendes sehen:
@@ -276,7 +265,6 @@ Wenn du die Website von Cryptpad öffnest (https://cryptpad.fr/),wirst du Folgen
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Braucht man für Cryptpad einen Account?</h3>
 
 ...grundsätzlich nicht! Wie du dem folgenden Bild entnehmen kannst...
@@ -291,7 +279,6 @@ Da wir hier von einer Gruppenarbeit im Rahmen eines Geschichtsseminars ausgehen,
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Vorstellung der Option Rich Text</h3>
 
 Gehen wir nun davon aus, dass du mit deiner Gruppe etwas in einem Textdokument festhalten musst. Dazu hast du "Rich Text" ausgewählt (siehe dazu __Folie 8__).<br>
@@ -304,7 +291,6 @@ Folgendes wirst du sehen:
 {{4-5}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Rich Text II</h3>
 
 Nun erhältst du hier nochmal einen genaueren Überblick über deine Optionen im Rich Text:
@@ -326,7 +312,6 @@ rot markiert: Die Option "Teilen" (um die geht es nun auf __Folie 12__)
 {{5-6}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Ein Projekt teilen</h3>
 
 Um nun Jede*n an deinem Projekt teilhaben und mitarbeiten zu lassen, musst du die Option _Teilen_ auswählen (rot markiert auf Folie __11__).
@@ -341,7 +326,6 @@ __Nur dann__ kann der- oder diejenige auch wirklich mitwirken. Cryptpad generier
 {{6-7}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Alles auf einen Blick</h3>
 
 Es bleibt festzuhalten:
@@ -358,11 +342,11 @@ Es bleibt festzuhalten:
 
 </section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 {{7-8}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <h3>...und so sieht es aus!</h3>
 
 !?[alt](/Bilder/Projektseminar.mp4)
@@ -406,7 +390,6 @@ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zen
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Die Recherche</h3>
 
 > Wenn du deine zentralen Schlüsselbegriffe gefunden hast, ist es an der Zeit mit deiner Recherche zu beginnen. An dieser Stelle bekommst du ein paar allgemeingültige Tipps, die dir eine Online-Recherche erleichtern können. Jeder Suchdienst kann aber auch Besonderheiten aufweisen. Es ist daher wichtig, dass du im Zweifel die **Hilfsangebote der jeweiligen Datenbanken** beachtest!
@@ -424,7 +407,6 @@ Im Folgenden erfährst du:
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3> Die richtige Suche nach Personen, Titeln und Themen</h3>
 
 -	Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
@@ -438,7 +420,6 @@ Im Folgenden erfährst du:
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Tipps zur Eingabe von Suchbegriffen</h3>
 
 -	Groß- und Kleinschreibung muss in der Regel nicht beachtet werden
@@ -450,7 +431,6 @@ Im Folgenden erfährst du:
 {{4-5}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
 
 Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
@@ -466,7 +446,6 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 {{5-6}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Suchbegriffe kombinieren</h3>
 
 > Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
@@ -496,7 +475,6 @@ Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entw
 {{6-7}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Begriffe aus der Suche ausschließen</h3>
 
 Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu erhalten, die zwar den ersten Suchbegriff beinhalten, jedoch nicht den zweiten.
@@ -511,7 +489,6 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 {{7-8}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>weiterführender Link</h3>
 
 Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
@@ -526,7 +503,7 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 
 {{0-1}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 > Ein weiterer wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswahl einer geeigneten Datenbank. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst.
 
 </section>
@@ -534,7 +511,6 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3> Der Katalog der Universitätsbibliothek zu Kiel</h3>
 
 ![UB-Katalog](/Bilder/OPAC.png)
@@ -550,7 +526,6 @@ Der Katalog der Universitätsbibliothek (UB-Katalog) gibt Auskunft über die bib
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Datenbanken-Infosystem (DBIS) der Universitätsbibliothek Kiel</h3>
 
 > Um eine passende Datenbank für dein Thema zu finden, kann dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel weiterhelfen. Dort ist eine Vielzahl verschiedener Datenbanken - nach Fachbereichen sortiert - aufgelistet.
@@ -564,7 +539,6 @@ Der Katalog der Universitätsbibliothek (UB-Katalog) gibt Auskunft über die bib
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Auch mal nach Hilfe fragen</h3>
 
 > Auch bei der Online-Recherche gilt: **es ist noch kein Meister vom Himmel gefallen**. Und Datenbank ist nicht gleich Datenbank.<br> Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt, ist es natürlich, dass man sich gerade am Anfang überfordert fühlt. Ihr könnt auch eure Dozenten, bei denen ihr die Hausarbeit schreibt, nach geeigneten Datenbanken für die Recherche für euer Thema fragen.
@@ -609,7 +583,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  Deine eigentliche Hausarbeit wird im dritten Abschnitt umgesetzt. Beachte dafür die von deinem __Institut vorgegebenen Formalia__. </div>
 
 </section>
@@ -617,7 +590,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Seitenränder</h3>
 ![alt](/Bilder/Seitenränder.bmp)
 
@@ -633,7 +605,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Schriftstil</h3>
 ![alt](/Bilder/Schrift.bmp)
 
@@ -648,7 +619,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 > Das Erstellen eines automatischen Inhaltsverzeichnisses erfolgt in drei Schritten.
 
 * Erstellen einer Grobgliederung
@@ -660,7 +630,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Erstellen einer Grobgliederung in Listenform</h3>
 
 > Um ein Automatisches Inhaltsverzeichnis erstellen zu können, muss dein Dokument erst einen Inhalt bekommen. Für die Dokumentvorlage reicht es, wenn du im dritten Abschnitt eine grobe Gliederung (Einleitung, Kapitel 1, Kapitel 2 (ggf. Unterkapitel), Schluss) in Form einer __Liste__ erstellst.
@@ -672,7 +641,6 @@ Oft verzweifeln Studierende beim Schreiben ihrer Hausarbeiten an der richtigen F
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Zuordnung der Ebenen</h3>
 
 Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebene zuordnen:
@@ -691,7 +659,6 @@ Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebe
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Einfügen des Inhaltsverzeichnisses</h3>
 
 > Begib dich in den zweiten Abschnitt deines Dokuments. Das Inhaltverzeichnis ist an dieser Stelle einzufügen.
@@ -711,7 +678,6 @@ Für das automatische Inhaltsverzeichnis musst du deine Überschriften einer Ebe
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h5>Jetzt müssen die Seitenzahlen formatiert werden</h5>
 
 Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstellten Abschnittsumbrüche wichtig.
@@ -723,7 +689,6 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Nummerierung von Deckblatt und Inhaltsverzeichnis</h3>
 
 ![alt](/Bilder/Seitenzahlen-Römisch-1.bmp)
@@ -747,7 +712,6 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Verknüpfungen zwischen Abschnitten lösen</h3>
 > Damit du deine Arbeit ab der dritten Seite problemlos anders nummerieren kannst als am Anfang, müssen die zuvor eingefügten Abschnitte voneinander getrennt werden.
 
@@ -763,7 +727,6 @@ Um die Seitenzahlen richtig formatieren zu können, werden die zu Beginn erstell
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Nummerierung ab der dritten Seite Einfügen</h3>
 
 ![alt](/Bilder/Seitenzahlen-Arabisch.bmp)
@@ -782,7 +745,6 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{4-5}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Entfernen der Seitenzahl im letzten Abschnitt</h3>
 > Im letzten Abschnitt befindet sich die Eigenständigkeitserklärung der Arbeit. Diese wird nicht im Inhaltsverzeichnis aufgeführt und nicht mit einer Seitenzahl versehen. Für den letzten Abschnitt muss die Seitenzahl deshalb wieder entfernt werden.
 
@@ -808,7 +770,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{0-1}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 > Zum Schluss solltest du deine neue Dokumentvorlage als solche in Word speichern (.dotx-Datei). So kannst du die Vorlage für jede Hausarbeit verwenden und stellst sicher, dass du sie nicht versehenlich überschreibst. Dies könnte passieren, wenn du die Formatvorlage als als Word-Datei (.docx-Datei) auf deinem Rechner speicherst.
 
 </section>
@@ -816,7 +778,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <h3>Als Dokumentvorlage Speichern</h3>
 
 ![alt](/Bilder/Vorlage-speichern.bmp)
@@ -833,7 +795,6 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Dokumentvorlagen öffnen</h3>
 
 > Du kannst deine Dokumentvorlage jederzeit über Word öffnen.
@@ -852,7 +813,6 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 1. Wie fügst du in deinem Dokument einen Abschnittsumbruch ein?
 
 - [( )] "Einfügen" -> "Seitenumbruch".
@@ -871,7 +831,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{2-3}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 3. Wie wird das automatische Inhaltsverzeichnis hinzugefügt?
 
 - [(X)] "Referenzen" -> "Inhaltsverzeichnis" -> "Automatisches Verzeichnis 1".
@@ -890,8 +850,8 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 
 {{3-4}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
-5. Welche Behauptungen treffen zu?
+
+ 5. Welche Behauptungen treffen zu?
 
 [[_ja_] [_nein_]]
 [[X] [ ]] Um innerhalb eines Dokuments unterschiedliche Seitenzahlen einfügen zu können, müssen zuvor die Abschnitte voneinander getrennt werden
@@ -909,7 +869,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 ## Nützliche Shortcuts
 {{0-1}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 > Shortcuts erleichtern das Schreiben der Hausarbeit. Den folgenden Listen sind die nützlichsten Shortcuts für das Schreiben von Hausarbeiten für Windows und für MacOS zu entnehmen.
 
 </section>
@@ -917,7 +877,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <h3>Shortcuts bei Windows</h3>
 
 | Aktion   | Shortcut    |
@@ -941,7 +901,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <h3>Shortcuts bei MacOS</h3>
 
 | Aktion   | Shortcut |
@@ -966,7 +926,7 @@ Du bleibst im Fußnotenapperat des dritten Abschnitts:
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <h3>Was ist eigentlich LibreOffice?</h3>
 
 LibreOffice ist ein kostenfreies Open-Source Textbearbeitungs-Programm.
@@ -979,7 +939,6 @@ LibreOffice ist ein kostenfreies Open-Source Textbearbeitungs-Programm.
 {{1-2}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Warum ist LibreOffice eine gute Alternative?</h3>
 
 Es läuft ohne Probleme auf allen Betriebssystemen (Windows, Linux, Apple, Smartphones und Tablets)
@@ -993,7 +952,6 @@ LibreOffice kann Word Dokumente öffnen und auch im Word-Format abspeichern.
 {{2-3}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Warum sollte ich Word dann noch benutzen?</h3>
 
 Es gibt ein paar Vorteile, die Microsoft Office mit sich bringt.
@@ -1013,7 +971,6 @@ Es gibt ein paar Vorteile, die Microsoft Office mit sich bringt.
 {{3-4}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Wie war das noch Mal?</h3>
 <h4>Was ist LibreOffice?</h4>
 
@@ -1037,6 +994,7 @@ Es gibt ein paar Vorteile, die Microsoft Office mit sich bringt.
 
 - [X] Word
 - [ ] LibreOffice
+
 <script output="tasks">"@input"</script>
 
 <script style="width: 100%">
@@ -1050,6 +1008,7 @@ try {
   <!--      send.liascript(`## Word -->
 
 msg = msg + `** Word**\n
+ 
  Nutze auf jeden Fall die Möglichkeit, es von deiner Uni für wenig Geld pro Jahr zu bekommen.
 
  Mit Word bekommst du außerdem noch das Mail-Programm Outlook. Und wenn du Probleme hast, dann scheu dich nicht davor den Service anzurufen.
@@ -1079,7 +1038,7 @@ Und falls du doch nicht zufrieden bist, kannst du dir ja immer noch Word kaufen.
 
 {{4-5}}
 <section>
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
+
 <div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;">  
 Es ist egal welches Programm das Beste ist. Wichtig ist nur, dass du damit zufrieden bist. **Viel Erfolg bei deinem Studium!** </div>
 
@@ -1088,7 +1047,6 @@ Es ist egal welches Programm das Beste ist. Wichtig ist nur, dass du damit zufri
 {{5-6}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
 <h3>Literatur</h3>
 > * [Computer Spezialisten](https://computer-spezialisten.de/blog/microsoft-libre-open-office-co/)
 > * [Vorteile von LibreOffice](https://jochen-plikat.com/2017/01/25/vorteile-von-libreoffice/)
