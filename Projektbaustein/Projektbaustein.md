@@ -346,7 +346,6 @@ Es bleibt festzuhalten:
 {{7-8}}
 <section>
 
-
 <h3>...und so sieht es aus!</h3>
 
 !?[alt](/Bilder/Projektseminar.mp4)
@@ -385,7 +384,7 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 
 Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zentrale Schlüsselbegriffe genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit. </div>
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.</div>
 
 </section>
 
