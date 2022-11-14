@@ -379,6 +379,7 @@ Die Regeln sind einfach und schnell erklärt: In beiden Blöcken befindet sich j
 [[Gruppenreferate lassen sich leider nur zur gleichen Zeit am gleichen Ort erledigen | (Kollaboratives Arbeiten und Teamarbeit sind nicht dasselbe) | Zoom ist ein Tool zum Erstellen von Textdokumenten | Cryptpad ist für 90 Tage kostenlos, danach zahlungspflichtig]]
 [[(Ich kann mehrere Dokumenttypen mit Cryptpad erstellen) | Nur wenn ich bei der Linkfreigabe auf "Ansehen" stelle, können alle Teilnehmenden das Dokument bearbeiten | Leider bietet die CAU keinen Cloud-Service an]]
 
+
 # Die digitale Literaturrecherche
 ![Sketch Literaturrecherche](/Bilder/RechercheComic.jpg)
 Frustration, Enttäuschung und Wut. Diesen Gefühlen ist wohl das Gros der Studierenden auf der Suche nach Literatur ausgesetzt.
@@ -390,8 +391,11 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 {{0-1}}
 <section>
 
-<div style="z-index: 5; width:2.1rem; height:2rem; background-color:white; position: relative; top: 0rem; left: -2.5rem;"></div>
-<h3>Gute Vorbereitung ist die halbe Arbeit</h3>
+---
+
+## Gute Vorbereitung ist die halbe Arbeit
+
+---
 
 Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zentrale Schlüsselbegriffe genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
