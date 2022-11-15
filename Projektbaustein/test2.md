@@ -444,7 +444,12 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 - Du suchst nach: tele*on --> Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
 - Du suchst nach: do*umentation --> Du findest Treffer mit den Worten: documentation und Dokumentation
 
+
+<!--
+
 <div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel **nicht** verwenden. </div>
+
+-->
 
 </section>
 
