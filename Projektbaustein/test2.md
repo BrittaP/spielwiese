@@ -442,6 +442,8 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 
 <!-- Divider MID -->
+</section>
+
 
 <!-- BIS HIER PROBELEME -->
 
