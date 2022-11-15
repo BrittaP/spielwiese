@@ -381,7 +381,67 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 
 <!-- AB HIER PROLEME -->
 
- 
+{{0-1}}
+<section>
+
+<h3>Gute Vorbereitung ist die halbe Arbeit</h3>
+
+Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zentrale Schlüsselbegriffe genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.</div>
+
+</section>
+
+{{1-2}}
+<section>
+
+<h3>Die Recherche</h3>
+
+> Wenn du deine zentralen Schlüsselbegriffe gefunden hast, ist es an der Zeit mit deiner Recherche zu beginnen. An dieser Stelle bekommst du ein paar allgemeingültige Tipps, die dir eine Online-Recherche erleichtern können. Jeder Suchdienst kann aber auch Besonderheiten aufweisen. Es ist daher wichtig, dass du im Zweifel die **Hilfsangebote der jeweiligen Datenbanken** beachtest!
+
+Im Folgenden erfährst du:
+
+- Wie du richtig nach Personen, Titeln oder Themen suchst;
+-	Was es bei der Eingabe von Suchbegriffen zu beachten gibt;
+-	Wie du Platzhalter richtig verwendest (Trunkierung);
+-	Wie du Suchbegriffe kombinierst;
+-	Wie du Begriffe aus deiner Suche ausschließen kannst.
+
+</section>
+
+{{2-3}}
+<section>
+
+<h3> Die richtige Suche nach Personen, Titeln und Themen</h3>
+
+-	Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
+
+-	Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
+
+-	Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden (Hierbei können die Bezeichnungen je nach Suchdienst abweichen).
+
+</section>
+
+{{3-4}}
+<section>
+
+<h3>Tipps zur Eingabe von Suchbegriffen</h3>
+
+-	Groß- und Kleinschreibung muss in der Regel nicht beachtet werden
+-	Bei Sonderzeichen, wie beispielsweise Akzenten, kannst du die Grundform des Buchstabens verwenden (e statt é).
+-	Löse Umlaute und das ß auf (ae statt ä, oe statt ö, ue statt ü, ss statt ß).
+
+</section>
+
+{{4-5}}
+<section>
+
+<h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
+
+Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
+
+
+<!-- Divider MID -->
 
 <!-- BIS HIER PROBELEME -->
 
