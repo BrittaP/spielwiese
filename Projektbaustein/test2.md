@@ -441,8 +441,38 @@ Im Folgenden erfährst du:
 Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
 
 
+<!-- Old Divider Bis hier alles ok-->
+
+//ToDo Hier wurden mal Doppelpfeile verwedet, die finden eigentlich anwendung in der Kommentarsyntax..
+- Du suchst nach: Bibliothek* -> Du findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.
+- Du suchst nach: tele*on -> Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
+- Du suchst nach: do*umentation -> Du findest Treffer mit den Worten: documentation und Dokumentation
+
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel **nicht** verwenden. </div>
+
+</section>
+
+{{5-6}}
+<section>
+
+<h3>Suchbegriffe kombinieren</h3>
+
+> Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
+
+<h4>Alle Begriffe finden (UND)</h4>
+
+Verwende das Wort AND (in Großbuchstaben), das Pluszeichen oder einfach das Leerzeichen, um Treffer zu erhalten, in denen alle Suchbegriffe vorkommen.
+
+- digital AND literacy
+- digital +literacy
+- digital literacy
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt. </div>
+
 <!-- Divider MID -->
 </section>
+
 
 
 <!-- BIS HIER PROBELEME -->
