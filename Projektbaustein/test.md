@@ -436,6 +436,8 @@ Im Folgenden erfährst du:
 {{4-5}}
 <section>
 
+<!-- Laut Binary Search kann der bis hier noch laden -->
+
 <h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
 
 Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
