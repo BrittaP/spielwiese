@@ -443,7 +443,6 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 <!-- Old Divider Bis hier alles ok-->
 <!-- Divider MID -->
-<section>
 
 <h4>Einen oder mehrere Begriffe finden (ODER)</h4>
 
