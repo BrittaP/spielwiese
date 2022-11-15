@@ -365,7 +365,6 @@ Die Regeln sind einfach und schnell erklärt: In beiden Blöcken befindet sich j
 
 # Die digitale Literaturrecherche
 
-<section>
 
 ![Sketch Literaturrecherche](/Bilder/RechercheComic.jpg)
 Frustration, Enttäuschung und Wut. Diesen Gefühlen ist wohl das Gros der Studierenden auf der Suche nach Literatur ausgesetzt.
@@ -373,7 +372,6 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 
 > Im folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
 
-</section>
 
 ## Tipps und Tricks für deine Recherche
 
