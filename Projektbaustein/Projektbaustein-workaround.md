@@ -365,8 +365,7 @@ Die Regeln sind einfach und schnell erklärt: In beiden Blöcken befindet sich j
 
 # Die digitale Literaturrecherche
 
-
-<!-- <section>  --> 
+<section>
 
 ![Sketch Literaturrecherche](/Bilder/RechercheComic.jpg)
 Frustration, Enttäuschung und Wut. Diesen Gefühlen ist wohl das Gros der Studierenden auf der Suche nach Literatur ausgesetzt.
@@ -374,12 +373,9 @@ Was tun, wenn die Suche zu kaum Ergebnissen führt oder das gesuchte Werk ausgel
 
 > Im folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
 
-
-<!-- </section> -->
+</section>
 
 ## Tipps und Tricks für deine Recherche
-
-<!-- AB HIER PROLEME -->
 
 {{0-1}}
 <section>
@@ -434,8 +430,6 @@ Im Folgenden erfährst du:
 </section>
 
 {{4-5}}
-
-<!-- Laut Binary Search kann der bis hier noch laden -->
 <section>
 
 <h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
@@ -446,12 +440,64 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 - Du suchst nach: tele*on --> Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
 - Du suchst nach: do*umentation --> Du findest Treffer mit den Worten: documentation und Dokumentation
 
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel **nicht** verwenden. </div>
+**Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel **nicht** verwenden.
 
 </section>
 
-<!-- check 1 -->
-<!-- BIS HIER PROBELEME -->
+{{5-6}}
+<section>
+
+<h3>Suchbegriffe kombinieren</h3>
+
+> Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
+
+<h4>Alle Begriffe finden (UND)</h4>
+
+Verwende das Wort AND (in Großbuchstaben), das Pluszeichen oder einfach das Leerzeichen, um Treffer zu erhalten, in denen alle Suchbegriffe vorkommen.
+
+- digital AND literacy
+- digital +literacy
+- digital literacy
+
+**Achtung:** Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt.
+
+<h4>Einen oder mehrere Begriffe finden (ODER)</h4>
+
+Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entweder mit dem einen oder dem anderen (oder beiden Suchbegriffen) zu erhalten.
+
+- star OR stern
+- (star stern)
+
+**Achtung:** Eine **ODER-Verknüpfung** erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.
+
+</section>
+
+{{6-7}}
+<section>
+
+<h3>Begriffe aus der Suche ausschließen</h3>
+
+Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu erhalten, die zwar den ersten Suchbegriff beinhalten, jedoch nicht den zweiten.
+
+- digital NOT literacy
+- digital -literacy
+
+**Achtung:** Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not".
+
+</section>
+
+{{7-8}}
+<section>
+
+<h3>weiterführender Link</h3>
+
+Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
+
+> * [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
+> * [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
+> * [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
+
+</section>
 
 
 ## Bibliografien & Literaturdatenbanken
