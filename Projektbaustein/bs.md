@@ -436,8 +436,21 @@ Im Folgenden erfährst du:
 {{4-5}}
 
 <!-- Laut Binary Search kann der bis hier noch laden -->
+<section>
 
+<h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
 
+Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
+
+- Du suchst nach: Bibliothek* --> Du findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.
+- Du suchst nach: tele*on --> Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
+- Du suchst nach: do*umentation --> Du findest Treffer mit den Worten: documentation und Dokumentation
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung:** In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel **nicht** verwenden. </div>
+
+</section>
+
+<!-- check 1 -->
 <!-- BIS HIER PROBELEME -->
 
 
