@@ -434,10 +434,9 @@ Im Folgenden erfährst du:
 </section>
 
 {{4-5}}
-<section>
 
 <!-- Laut Binary Search kann der bis hier noch laden -->
-</section>
+
 
 <!-- BIS HIER PROBELEME -->
 

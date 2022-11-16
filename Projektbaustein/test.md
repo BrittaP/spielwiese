@@ -434,9 +434,9 @@ Im Folgenden erfährst du:
 </section>
 
 {{4-5}}
-<section>
 
 <!-- Laut Binary Search kann der bis hier noch laden -->
+<section>
 
 <h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
 
