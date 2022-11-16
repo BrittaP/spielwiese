@@ -485,21 +485,6 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 **Achtung:** Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not".
 
 </section>
-
-{{7-8}}
-<section>
-
-<h3>weiterführender Link</h3>
-
-Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
-
-> * [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
-> * [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
-> * [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
-
-</section>
-
-
 ## Bibliografien & Literaturdatenbanken
 
 {{0-1}}
