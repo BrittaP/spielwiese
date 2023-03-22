@@ -177,3 +177,52 @@ Abbildungen werden durch folgende Auszeichnung eingebunden:
 ![alt](Ordnung_und_Stuktur/Abbildungen/Icon_Puzzel_2022-03-23_web.jpg "Puzzel")
 
 
+## Quizzes
+
+> Quizzes in LiaScript sind ebenfalls einfach:
+
+**Einfache Texteingabe:**
+
+What is the name of the Markdown dialect that is used for education?
+
+    [[LiaScript]]
+
+**Single-Choice**
+
+Can you think of a simpler way of creating Quizzes?
+
+    [( )] yes
+    [(X)] __NO of course not__
+    [( )] maybe
+     ***********************************************************************
+
+    **Juhuuuu!**
+
+    ***********************************************************************
+
+**Multiple-Choice**
+
+What is the derivative function of $f(x) = x^6$?
+
+    [[ ]] $f'(x) = 6$
+    [[X]] $f'(x) = 6x^5$
+    [[ ]] $f'(x) = 5x^6$
+    [[X]] this is only a random demo to highlight formulas
+    ***********************************************************************
+
+    ![MS-DOS Math Game](https://i.gifer.com/origin/0e/0edc716135c55552ed0f7aa673847e03.gif)
+
+    ***********************************************************************
+
+### German is weird
+
+Man or woman is obvious, but you guess the remaining German grammatical genders?
+
+    [[male (der<!-- class="notranslate"-->)]   (female [die<!-- class="notranslate"-->])   [neuter (das<!-- class="notranslate"-->)]]
+    [    [X]           [ ]             [ ]     ]  Mann<!-- class="notranslate"--> - German for man
+    [    ( )           (X)             ( )     ]  Frau<!-- class="notranslate"--> - German for woman
+    [    [X]           [ ]             [ ]     ]  Junge<!-- class="notranslate"--> - German for boy
+    [    ( )           ( )             (X)     ]  Mädchen<!-- class="notranslate"--> - German for girl
+    [    [X]           [X]             [ ]     ]  Paprika<!-- class="notranslate"--> - German for bell pepper
+    [    (X)           (X)             (X)     ]  Joghurt<!-- class="notranslate"--> - German for yogurt
+
