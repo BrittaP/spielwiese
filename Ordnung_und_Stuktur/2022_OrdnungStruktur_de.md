@@ -20,7 +20,7 @@ tags:     Forschungsdaten, Ordnung, Struktur, dateibenennung, dateibenennungskon
 
 Herzlich willkommen im Lernbaustein "**Digitale Forschungsdaten ordnen und strukturieren**"!
 
- ![Bild](Abbildungen\2022-09-27_FDM-Zyklus_Erhebung_OhneZentrum_CM.jpg)<!--  width="250px"
+ ![Bild](Abbildungen/2022-09-27_FDM-Zyklus_Erhebung_OhneZentrum_CM.jpg)<!--  width="250px"
   height="250px"
   align="right"-->
 
@@ -40,7 +40,7 @@ Der Lernbaustein  wurde für den Einsatz in der Lehre entwickelt. Er eignet sich
 
 >**Lizenzhinweis**
 >
->![Bild](Abbildungen\CC_Lizenz.png)<!--  width="50px"
+>![Bild](Abbildungen/CC_Lizenz.png)<!--  width="50px"
 -->
 >Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
 
@@ -52,7 +52,7 @@ Empfehlenswert ist eine Bearbeitung in der Studieneingangsphase.
 
 ## Ziele dieses Lernmoduls
 
-![Bild](Abbildungen\2022-09-27_Zielscheibe-mit-Pfeil.jpg)<!--  width="80px"
+![Bild](Abbildungen/2022-09-27_Zielscheibe-mit-Pfeil.jpg)<!--  width="80px"
 align="right"-->
 
 Das Lernmodul soll wichtige Aspekte näher bringen, die beim Anlegen von Ordnern und bei der Benennung von Dateien für einen strukturierten und nachvollziehbaren Umgang mit Daten zu beachten sind.
@@ -89,7 +89,7 @@ Eine intensive Auseinandersetzung mit den eingebetteten Übungsaufgaben kann die
 
 # Motivation
 
-![Bild](Abbildungen\TiBi-Daten-ordnen_2022_web.png)<!--  width="180px"
+![Bild](Abbildungen/TiBi-Daten-ordnen_2022_web.png)<!--  width="180px"
  align="right"-->
 
 Selbst erhobene oder nachgenutzte Forschungsdaten, die Sie in Form von Dateien abspeichern und bearbeiten, können sehr schnell unübersichtlich werden.
@@ -101,7 +101,7 @@ Zur Vermeidung wiederholter Arbeitsschritte oder gar Datenverlusten, ist ein str
 
 **Denn das hier sollte Ihnen besser nicht passieren...**
 
-![Bild](Abbildungen\Comic_Datenverlust_v2_2022-03-08_CM_web.jpg)
+![Bild](Abbildungen/Comic_Datenverlust_v2_2022-03-08_CM_web.jpg)
 
  ********************************************************************************
 
@@ -137,7 +137,7 @@ Ein strukturiertes Vorgehen beim Anlegen und Verwalten von Ordnerstrukturen sowi
 >* Die Zusammenarbeit mit anderen vereinfachen
 >* Maschinenlesbarkeit gewährleisten
 
-![Bild](Abbildungen\Icon_Puzzel_2022-03-23_web.jpg) <!--  width="80px"
+![Bild](Abbildungen/Icon_Puzzel_2022-03-23_web.jpg) <!--  width="80px"
  height="80px"
  align="right"-->
 
@@ -146,7 +146,7 @@ Auch für die Datenqualität und die Interoperabilität ist ein strukturiertes V
 
 ### Selbsttest - Motivation
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 **Welche der folgenden Ziele werden u. a. mit einem strukturierten Anlegen von Ordnern sowie der strukturierten Vergabe von Dateinamen verfolgt?** (Mehrfachauswahl möglich)
@@ -159,7 +159,7 @@ Auch für die Datenqualität und die Interoperabilität ist ein strukturiertes V
 
 ---
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 **Was sollte man ~~neben~~ einer logischen Ordnerstruktur und strukturierten Dateibenennungen im Hinblick auf eine gute Dateiorganisation noch im Blick haben?** (Mehrfachauswahl möglich)
@@ -197,7 +197,7 @@ Bei Vergabe von Pfadnamen gehen die beiden Betriebssysteme Windows und Unix unte
 >
 >**Ein vollständiger Pfadname sieht unter Windows beispielsweise so aus: **
 >
->![](Abbildungen\Abb_Pfadbeispiel_2022_bp.png "Hier steht **C:\\** für das Laufwerk/den Datenträger, auf dem die Datei abgelegt ist. Auf diesem Laufwerk C liegt ein Ordner **uni**, in welchem sich ein Ordner **physik_I** befindet. Innerhalb des Ordners physik_I befindet sich ein Ordner **protokolle**, in welchem eine Datei mit dem Namen **beispielprotokoll.docx** abgelegt ist.")<!--  width="350px" align="middle"-->
+>![](Abbildungen/Abb_Pfadbeispiel_2022_bp.png "Hier steht **C:\\** für das Laufwerk/den Datenträger, auf dem die Datei abgelegt ist. Auf diesem Laufwerk C liegt ein Ordner **uni**, in welchem sich ein Ordner **physik_I** befindet. Innerhalb des Ordners physik_I befindet sich ein Ordner **protokolle**, in welchem eine Datei mit dem Namen **beispielprotokoll.docx** abgelegt ist.")<!--  width="350px" align="middle"-->
 
 >**Unix** und **Unix-Derivate** (z. B. Linux) arbeiten mit einem sogenannten „Wurzelverzeichnis“ (root directory). Von diesem Wurzelverzeichnis aus wird rein verzeichnisorientiert, ohne Angabe eines Laufwerkes/Datenträgers adressiert. Aus einer Unix-Pfadangabe alleine ist daher nicht ersichtlich, auf welchem physikalischen Datenträger eine bestimmte Datei liegt. In der Regel liegt das Wurzelverzeichnis auf dem Datenträger, von welchem der Systemstart erfolgt. Weitere Datenträger werden durch die Verwaltung von sogenannten Einhängepunkten (mount points) eingebunden.
 >
@@ -205,11 +205,11 @@ Bei Vergabe von Pfadnamen gehen die beiden Betriebssysteme Windows und Unix unte
 >
 >**Ein vollständiger Pfadname sieht unter einem UNIX-System beispielsweise so aus: **
 >
->![](Abbildungen\Abb_Pfadbeispiel_Unix2022_bp.png "Hier liegt ein Ordner **uni** im Wurzelverzeichnis, in welchem sich ein Ordner **physik_I** befindet. Innerhalb des Ordners physik_I befindet sich ein Ordner **protokolle**, in welchem eine Datei mit dem Namen **beispielprotokoll.docx** abgelegt ist. Es ist nicht ersichtlich, auf welchem physikalischen Datenträger die Datei **beispielprotokoll.docx** gespeichert ist.")<!--  width="350px" align="middle"-->
+>![](Abbildungen/Abb_Pfadbeispiel_Unix2022_bp.png "Hier liegt ein Ordner **uni** im Wurzelverzeichnis, in welchem sich ein Ordner **physik_I** befindet. Innerhalb des Ordners physik_I befindet sich ein Ordner **protokolle**, in welchem eine Datei mit dem Namen **beispielprotokoll.docx** abgelegt ist. Es ist nicht ersichtlich, auf welchem physikalischen Datenträger die Datei **beispielprotokoll.docx** gespeichert ist.")<!--  width="350px" align="middle"-->
 
 ### Selbsttest - Pfade
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 
@@ -221,7 +221,7 @@ Bei Vergabe von Pfadnamen gehen die beiden Betriebssysteme Windows und Unix unte
 [[ ]] Laufwerks- oder Datenträgerbezeichnung
 ---
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 
@@ -243,7 +243,7 @@ Unabhängig davon, an welchem Speicherort oder -medium Sie Ihre Dateien ablegen:
 
 **Verschiedene Wege können zum Ziel führen!**
 
- ![](Abbildungen\Icon_Ordner_2022_web.jpg)<!--  width="80px"
+ ![](Abbildungen/Icon_Ordner_2022_web.jpg)<!--  width="80px"
    align="right"--> Für die Erstellung einer Ordnerstruktur gibt es kein "Patentrezept", welches gleichermaßen für jeden Menschen und jedes Projekt funktionieren würde. Es gibt viele Möglichkeiten, Dateien zu organisieren und Ordnerstrukturen anzulegen.
 
 Nehmen Sie sich daher etwas Zeit und überlegen Sie, welche Vorgehensweise für Sie und für Ihre Studienprojekte sinnvoll und passend ist.
@@ -252,7 +252,7 @@ Nehmen Sie sich daher etwas Zeit und überlegen Sie, welche Vorgehensweise für 
 
 Versuchen Sie bei der Entwicklung einer logisch aufgebauten Ordnerstruktur folgende Punkte zu beachten:
 
->![](Abbildungen\Icon_Glühbirne_2022-02-23_web.jpg)<!--  width="80px" align="right"-->
+>![](Abbildungen/Icon_Glühbirne_2022-02-23_web.jpg)<!--  width="80px" align="right"-->
 >
 > * **Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen**
 > * **Aussagekräftige Ordnernamen verweisen auf die Inhalte**
@@ -272,7 +272,7 @@ Versuchen Sie bei der Entwicklung einer logisch aufgebauten Ordnerstruktur folge
 
 **Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen**
 
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Legen Sie Ordner an, die Dateien mit gemeinsamen Eigenschaften gruppieren, so dass sich Informationen zu einem bestimmten Thema an einem Ort befinden.
 
@@ -289,7 +289,7 @@ Digitale Forschungsdaten, die Sie etwa im Rahmen eines Praktikums oder einer Üb
 
 **Aussagekräftige Ordnernamen verweisen auf die Inhalte**
 
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Stellen Sie sicher, dass Sie klare und angemessene Ordnernamen verwenden, die den Inhalt des Ordners prägnant wiedergeben.
 
@@ -301,7 +301,7 @@ Sie haben sich eben überlegt, nach welchen Merkmalen Sie Ihre Dateien gruppiere
 ********************************************************************************
 
 **Ordner hierarchisch strukturieren**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Entwerfen Sie eine hierarchisch organisierte Ordnerstruktur. Beginnen Sie mit einer begrenzten Anzahl von Ordnern für die übergeordneten Themen und legen Sie dann innerhalb dieser Ordner weitere spezifischere Ordner an.
 
@@ -320,7 +320,7 @@ Folgendes Beispiel stellt eine hierarchische Strukturierung dar:
 ********************************************************************************
 
 **Nicht zu viele Unterordner anlegen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Versuchen Sie ein Ablagekonzept zu entwickeln, das nicht zu komplex aufgebaut ist.
 
@@ -334,7 +334,7 @@ Finden Sie eine für Sie und Ihre Projekte stimmige Balance!
 ********************************************************************************
 
 **Laufende und abgeschlossene Arbeiten trennen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Es kann sehr hilfreich sein, Entwürfe und abgeschlossene Arbeiten in getrennten Ordnern abzulegen.
 
@@ -348,7 +348,7 @@ Auf diese Weise können Sie leichter überprüfen und im Auge behalten, was Sie 
 ********************************************************************************
 
 **Rohdaten immer gesondert ablegen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Ihre Rohdaten sollten Sie stets getrennt von den Daten aufbewahren, an denen Sie arbeiten.
 
@@ -363,7 +363,7 @@ Das macht es auch schwieriger, in einem Moment der Schwäche schnell mal manuell
 ********************************************************************************
 
 **Backup nicht vergessen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Stellen Sie sicher, dass Ihre Dateien, egal ob sie sich auf Ihrem lokalen Laufwerk oder einem Netzlaufwerk befinden, regelmäßig gesichert werden.
 
@@ -373,7 +373,7 @@ Stellen Sie sicher, dass Ihre Dateien, egal ob sie sich auf Ihrem lokalen Laufwe
 ********************************************************************************
 
 **Nicht mehr benötigte Dateien löschen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Überprüfung Sie regelmäßig zu bestimmten Zeitpunkten oder jeweils am Ende einer abgeschlossenen Arbeit Ihre Dateien und löschen Sie die nicht mehr benötigten Dateien.
 
@@ -387,7 +387,7 @@ Tragen Sie sich ggf. eine Erinnerung in Ihren Kalender ein, damit Sie es nicht v
 ********************************************************************************
 
 **Gegebenenfalls eine Zwischenablage anlegen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Für Dokumente, die Sie (noch) nicht klar einem Ihrer Verzeichnisse zuordnen können, kann ein Ordner „Temp“ oder „Noch einzuordnen“ angelegt werden. Eine solche Zwischenablage sollte aber unbedingt regelmäßig aufgeräumt werden.
 
@@ -397,7 +397,7 @@ Für Dokumente, die Sie (noch) nicht klar einem Ihrer Verzeichnisse zuordnen kö
 ********************************************************************************
 
 **Ausprobieren und anpassen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Versuchen Sie unter Berücksichtigung der hier genannten Hinweise eine Ordnerstruktur zu entwickeln, deren Ordnung Ihren persönlichen Bedürfnissen entspricht.
 
@@ -413,7 +413,7 @@ Halten Sie eventuelle Änderungen Ihrer Strukturen in einer [Dokumentation](#dok
 ********************************************************************************
 
 **Für gemeinsam genutzte Dateien gemeinsame Regeln festlegen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Wenn Sie Ihre Daten und Dateien gemeinsam mit Kommiliton*innen nutzen, sollten Sie gemeinsam Regeln zum Umgang mit den Daten festlegen.
 
@@ -427,7 +427,7 @@ Dokumentieren Sie Ihre gemeinsamen Regeln!
 ********************************************************************************
 
 **Konsequent bleiben**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Seien Sie konsequent - wenn Sie ein Ordnungs- und Benennungsschema für Ihre Dateiablage entwickeln, ist es wichtig, dass Sie sich an eine einmal festgelegte Methode halten.
 
@@ -443,15 +443,15 @@ Folgende Beispiele sollen Ihnen als Orientierungshilfe für die Erstellung eigen
 
 ---
 
-![](Abbildungen\Abb_OrdnerstrukturUebungXY_2022_bp.png "Beispielhafte Orderstruktur für eine Übung, in welcher Daten erhoben, ausgewertet und in einer Hausarbeit und/oder einem Poster zusammengefasst und beschrieben werden.  (Abbildung: Britta Petersen)")<!--  width="250px" align="center"-->
+![](Abbildungen/Abb_OrdnerstrukturUebungXY_2022_bp.png "Beispielhafte Orderstruktur für eine Übung, in welcher Daten erhoben, ausgewertet und in einer Hausarbeit und/oder einem Poster zusammengefasst und beschrieben werden.  (Abbildung: Britta Petersen)")<!--  width="250px" align="center"-->
 
 ---
 
-![](Abbildungen\Abb_OrdnerstrukturArchproject_2022_bp.png "Beispielhafte Orderstruktur für ein wissenschaftliches Projekt aus dem Fachbereich Ur- und Frühgeschichte. (Abbildung: Britta Petersen nach Angaben von Oliver Nakoinz)")<!--  width="250px" align="center"-->
+![](Abbildungen/Abb_OrdnerstrukturArchproject_2022_bp.png "Beispielhafte Orderstruktur für ein wissenschaftliches Projekt aus dem Fachbereich Ur- und Frühgeschichte. (Abbildung: Britta Petersen nach Angaben von Oliver Nakoinz)")<!--  width="250px" align="center"-->
 
 ### Selbsttest - Ordner
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 **Ordnen Sie die folgenden Begriffe in eine nachvollziehbare hierarchische Struktur! Ordnen Sie dabei vom Unspezifischen (1. Ebene) zum Spezifischen (4. Ebene).**
@@ -478,7 +478,7 @@ Im Rahmen eines Studienfaches gibt es verschiedene Praktika, in denen Daten anfa
 ***********************************************************************
 ---
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 **Ordner sollten hierarchisch strukturiert werden. Warum sollten jedoch nicht übermäßig viele Unterordner angelegt werden?**
@@ -489,7 +489,7 @@ Im Rahmen eines Studienfaches gibt es verschiedene Praktika, in denen Daten anfa
 
 ---
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 **Was sollten Sie grundsätzlich immer mit Ihren Rohdaten machen?**
@@ -505,7 +505,7 @@ Wenn wir um 3:00 Uhr nachts verzweifelt nach der wirklich aktuellen Version der 
 ********************************************************************************
 **Welche dieser Dateien ist denn jetzt die aktuelle...?**
 
-![Bild](Abbildungen\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg)
+![Bild](Abbildungen/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg)
 
 ********************************************************************************
 
@@ -524,7 +524,7 @@ Ein Regelwerk für die Benennung von Dateien wird als **Dateibenennungskonventio
 
 **Beachten Sie die folgende Punkte beim Benennen Ihrer Dateien:**
 
-> ![](Abbildungen\Icon_Glühbirne_2022-02-23_web.jpg)<!--  width="80px" align="right"-->
+> ![](Abbildungen/Icon_Glühbirne_2022-02-23_web.jpg)<!--  width="80px" align="right"-->
 >
 > * **Konventionen frühzeitig festlegen**
 > * **Unterschiedliche Konventionen für verschiedene Dateitypen sind erlaubt**
@@ -541,7 +541,7 @@ Ein Regelwerk für die Benennung von Dateien wird als **Dateibenennungskonventio
 ********************************************************************************
 
 **Konventionen frühzeitig festlegen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Es ist wichtig, frühzeitig eine Dateibenennungskonvention zu erstellen.
 
@@ -558,7 +558,7 @@ Dies gilt insbesondere für kollaborativ genutzte Dateien.
 
 **Unterschiedliche Konventionen für verschiedene Dateitypen sind erlaubt**
 
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Bestimmen Sie, für welche Dateigruppe Ihre Namenskonvention gelten soll.
 
@@ -572,7 +572,7 @@ Dokumentieren Sie Ihre Konventionen entsprechend, beispielsweise: Diese Konventi
 ********************************************************************************
 
 **Prüfen, ob bereits etablierte Konventionen existieren**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Prüfen Sie, ob es in Ihrem Fachgebiet oder Ihrer Gruppe bereits etablierte Konventionen für die Benennung von Dateien gibt.
 
@@ -584,7 +584,7 @@ Falls ja, orientieren Sie sich an den etablierten Konventionen.
 ********************************************************************************
 
 **Weniger als 32 Zeichen (besser noch weniger) für Dateinamen benutzen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Lange Dateinamen (und zu viele Unterordner) sollten vermieden werden. Sie vermeiden damit, die zulässige Pfadlänge Ihres Betriebssystems zu überschreiten (Windows erlaubt maximal 256 Zeichen).
 
@@ -594,7 +594,7 @@ Lange Dateinamen (und zu viele Unterordner) sollten vermieden werden. Sie vermei
 ********************************************************************************
 
 **Dateinamen sollten deutlich auf den Inhalt der Datei hinweisen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Ihr Dateiname sollte den Inhalt der Datei möglichst gut beschreiben, gleichzeitig aber nicht zu lang sein.
 
@@ -608,7 +608,7 @@ Wenden Sie Ihre gewählten Abkürzungen stets konsequent an.
 ********************************************************************************
 
 **Grundsätzlich keine unspezifischen Dateinamen verwenden**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Dateinamen wie etwa "HausarbeitNeu" oder "HausarbeitFinal" sind sehr unspezifisch und angehängte Zusätze wie "Neu" oder "Final" sehr schnell nicht mehr aktuell.
 
@@ -622,7 +622,7 @@ Nutzen Sie stattdessen spezifischere Bezeichnungen für den Inhalt und Versionsb
 ********************************************************************************
 
 **Keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Die Nutzung von Umlauten und Leerzeichen in Dateinamen sind zwar erlaubt, aber nicht empfohlen, da nicht alle Systeme mit diesen Zeichen umgehen können, wodurch Fehler auftreten können.
 
@@ -635,7 +635,7 @@ Auf Sonderzeichen, wie etwa \*, \~, \#, \{, \}, \[, \], \|, \`, \$, \@, \\ usw. 
 
 **Bessere Lesbarkeit: Erlaubte Sonderzeichen Unterstrich (\_) und Bindestrich (-)**
 
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Für eine bessere Lesbarkeit können Sie die Zeichen Unterstrich (_) und Bindestrich (-) verwenden.
 
@@ -655,7 +655,7 @@ InhaltDerDateiV01.docx
 ********************************************************************************
 
 **Führende Null(en) bei Nummerierungen verwenden**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Wenn Sie sequentielle Nummern verwendet möchten, so sollten stets führende Nullen verwendet werden:
 
@@ -673,7 +673,7 @@ Die führende Null bei Nummerierungen ist für eine korrekte fortlaufende Nummer
 ********************************************************************************
 
 **Datumsangaben nach der ISO 8601**
-![](Abbildungen\Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
+![](Abbildungen/Icon_Tipp2_2022-02-24_cm_web.jpg)<!--  width="80px" align="right"-->
 
 Eine chronologische Sortierung ist bei den Dateien absolut sinnvoll, die sich z. B. durch das Erstelldatum unterscheiden, ansonsten aber Dokumente, Tabellen oder Präsentationen zu einem immer wiederkehrenden Thema sind.
 
@@ -688,12 +688,12 @@ Eine Datumsangabe im Format YY-MM-DD oder DD-MM-YY sollten Sie unbedingt vermeid
 Folgende Beispiele sollen Ihnen als Orientierungshilfe für die Erstellung eigener Benennungskonventionen und entsprechender Dateinamen dienen:
 
 
-![](Abbildungen\Abb_Beispiele-Benennungskonvention_2022_bp.png "Beispiele für Bennungskoventionen und Dateinamen. (Abbildung: Britta Petersen")
+![](Abbildungen/Abb_Beispiele-Benennungskonvention_2022_bp.png "Beispiele für Bennungskoventionen und Dateinamen. (Abbildung: Britta Petersen")
 
 
 ### Selbsttest - Dateibenennungen
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 
@@ -707,7 +707,7 @@ Folgende Beispiele sollen Ihnen als Orientierungshilfe für die Erstellung eigen
 
 ---
 
-![](Abbildungen\Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
+![](Abbildungen/Icon_FrageTyp_2022_web.jpg)<!--  width="80px"
    align="right"-->
 
 
