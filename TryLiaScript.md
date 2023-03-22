@@ -113,14 +113,8 @@ Ebenfalls, wie in reinem Markdown:
 * Liste mit Unterpunkten:
 
   - Es ist egal ob `-`
-  + oder ![alt](https://...)
-![alt](https://... "titel")
+  + oder `*`
 
-Projektinterne Bilder:
-
-![alt](/pic/image.jpg)
-![alt](/pic/image.jpg "titel")+`
-  * oder `*` vorangestellten wurden
 
 ---
 
