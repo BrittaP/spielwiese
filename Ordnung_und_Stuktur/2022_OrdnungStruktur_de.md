@@ -40,7 +40,7 @@ Der Lernbaustein  wurde für den Einsatz in der Lehre entwickelt. Er eignet sich
 
 >**Lizenzhinweis**
 >
->![Bild](Abbildungen/CC_Lizenz.png)<!--  width="50px"
+>![Bild](Abbildungen/ccby.png)<!--  width="50px"
 -->
 >Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
 
